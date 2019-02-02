@@ -1,0 +1,4 @@
+D:\Via Stuff 3\DNP\Projects\Session1\Ex0109\obj\Debug\netcoreapp2.1\Ex0109.csprojAssemblyReference.cache
+D:\Via Stuff 3\DNP\Projects\Session1\Ex0109\obj\Debug\netcoreapp2.1\Ex0109.csproj.CoreCompileInputs.cache
+D:\Via Stuff 3\DNP\Projects\Session1\Ex0109\obj\Debug\netcoreapp2.1\Ex0109.AssemblyInfoInputs.cache
+D:\Via Stuff 3\DNP\Projects\Session1\Ex0109\obj\Debug\netcoreapp2.1\Ex0109.AssemblyInfo.cs

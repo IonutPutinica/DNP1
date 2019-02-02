@@ -1,0 +1,11 @@
+D:\Via Stuff 3\DNP\Projects\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+D:\Via Stuff 3\DNP\Projects\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+D:\Via Stuff 3\DNP\Projects\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+D:\Via Stuff 3\DNP\Projects\Test\bin\Debug\netcoreapp2.1\Test.dll
+D:\Via Stuff 3\DNP\Projects\Test\bin\Debug\netcoreapp2.1\Test.pdb
+D:\Via Stuff 3\DNP\Projects\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+D:\Via Stuff 3\DNP\Projects\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+D:\Via Stuff 3\DNP\Projects\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+D:\Via Stuff 3\DNP\Projects\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+D:\Via Stuff 3\DNP\Projects\Test\obj\Debug\netcoreapp2.1\Test.dll
+D:\Via Stuff 3\DNP\Projects\Test\obj\Debug\netcoreapp2.1\Test.pdb
